@@ -1,2 +1,3 @@
 # Calculator-using-Inquirer
-I develope tjis project using Typescript Inquirer
+
+📽I develope this project using Typescript Inquirer
